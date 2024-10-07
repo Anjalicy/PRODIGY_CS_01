@@ -1,4 +1,4 @@
-#Caesar Cipher in Python
+# Caesar Cipher Tool
 
 This is a Python program that implements the **Caesar Cipher** algorithm. The Caesar Cipher is a type of substitution cipher where each letter in the plaintext is shifted by a certain number of positions down the alphabet.
 
@@ -26,7 +26,7 @@ This is a Python program that implements the **Caesar Cipher** algorithm. The Ca
 3.Run the caesar_cipher.py file:
   python caesar_cipher.py
   
-##Example
+## Example
 
     Encrypting a message:
         Input: Encrypt this message!
@@ -38,16 +38,16 @@ This is a Python program that implements the **Caesar Cipher** algorithm. The Ca
         Shift: 3
         Output: Encrypt this message!
 
-How it Works
+## How it Works
 
     Encryption: Each letter in the message is shifted forward by a number of positions defined by the shift value. If the shift passes the end of the alphabet, it wraps around to the beginning.
     Decryption: The same process is applied in reverse, shifting letters backward to reveal the original message.
 
-Input Handling
+## Input Handling
 
     Both uppercase and lowercase letters are supported.
     Non-alphabet characters (spaces, punctuation, etc.) are not altered.
 
-License
+## License
 
 This project is licensed under the MIT License. Feel free to use and modify it as you wish.
