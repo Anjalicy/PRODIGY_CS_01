@@ -43,13 +43,13 @@ This is a Python program that implements the **Caesar Cipher** algorithm. The Ca
 
 ## How it Works
 
-    Encryption: Each letter in the message is shifted forward by a number of positions defined by the shift value. If the shift passes the end of the alphabet, it wraps around to the beginning.
-    Decryption: The same process is applied in reverse, shifting letters backward to reveal the original message.
+Encryption: Each letter in the message is shifted forward by a number of positions defined by the shift value. If the shift passes the end of the alphabet, it wraps around to the beginning.
+Decryption: The same process is applied in reverse, shifting letters backward to reveal the original message.
 
 ## Input Handling
 
-    Both uppercase and lowercase letters are supported.
-    Non-alphabet characters (spaces, punctuation, etc.) are not altered.
+Both uppercase and lowercase letters are supported.
+Non-alphabet characters (spaces, punctuation, etc.) are not altered.
 
 ## License
 
