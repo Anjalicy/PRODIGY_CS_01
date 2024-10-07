@@ -18,13 +18,16 @@ This is a Python program that implements the **Caesar Cipher** algorithm. The Ca
 ### Running the Program
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/your-username/caesar-cipher-python.git
+
+         git clone https://github.com/your-username/caesar-cipher-python.git
 
 2.Navigate into the project directory:
-  cd caesar-cipher-python
+  
+        cd caesar-cipher-python
 
 3.Run the caesar_cipher.py file:
-  python caesar_cipher.py
+  
+        python caesar_cipher.py
   
 ## Example
 
