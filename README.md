@@ -19,7 +19,7 @@ This is a Python program that implements the **Caesar Cipher** algorithm. The Ca
 
 1. Clone this repository to your local machine:
 
-         git clone https://github.com/your-username/caesar-cipher-python.git
+         git clone https://github.com/Anjalicy/PRODIGY_CS_01.git
 
 2.Navigate into the project directory:
   
